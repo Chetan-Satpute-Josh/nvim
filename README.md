@@ -17,6 +17,13 @@ _neovim command_
 :MasonInstall gopls
 ```
 
+- Code highlight
+
+_neovim command_
+```
+:TSInstall go ruby typescript tsx javascript
+```
+
 ## Keymaps
 | Keys        | Function                        |
 | ----------- | ------------------------------- |
