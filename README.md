@@ -11,7 +11,10 @@ cp -r nvim ~/.config
 
 _neovim command_
 ```
-:MasonInstall prettier stylua
+:MasonInstall lua-language-server stylua
+:MasonInstall typescript-language-server prettier eslint-lsp json-lsp css-lsp
+:MasonInstall ruby-lsp
+:MasonInstall gopls
 ```
 
 ## Keymaps
